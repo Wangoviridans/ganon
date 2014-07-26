@@ -1,0 +1,23 @@
+{
+	"name": "wangoviridans/ganon",
+	"description": "Fast (HTML DOM) parser written in PHP.",
+	"minimum-stability": "dev",
+	"license": "GPL",
+	"authors": [
+		{
+			"name": "Kirill Popov",
+			"email": "kirill.popov@me.com"
+		}
+	],
+	"require": {
+		"php": ">=5.2.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Wangoviridans\\Ganon\\": "src/Ganon/"
+		},
+		"files": [
+			"src/Ganon/utils.php"
+		]
+	}
+}
