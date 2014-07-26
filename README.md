@@ -5,20 +5,19 @@ Fast (HTML DOM) parser written in PHP.
 ## Important note
 This is a fork of the project [https://code.google.com/p/ganon/](https://code.google.com/p/ganon/)
 
-# Installation
+## Installation
 
-## Composer
+  Via [composer](http://getcomposer.org/)
+  (https://packagist.org/packages/wangoviridans/ganon)
 
-    Via [composer](http://getcomposer.org/)
-    (https://packagist.org/packages/wangoviridans/ganon)
-
-        {
-            "require": {
-                "wangoviridans/ganon": "dev-master"
-            }
+    {
+        "require": {
+            "wangoviridans/ganon": "dev-master"
         }
+    }
 
-    Or just clone and put somewhere inside your project folder.
+  Or just clone and put somewhere inside your project folder.
+
     $ cd myapp/vendor
     $ git clone git://github.com/wangoviridans/ganon.git
 
