@@ -33,7 +33,6 @@ Via [composer](http://getcomposer.org/)
 
     // Parse the google code website into a DOM
     $html = file_get_dom('http://code.google.com/');
-
 After including Ganon and loading the DOM, it is time to get started.
 
 ## Access
