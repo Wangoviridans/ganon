@@ -1,7 +1,7 @@
 {
 	"name": "wangoviridans/ganon",
 	"description": "Fast (HTML DOM) parser written in PHP.",
-	"minimum-stability": "dev",
+	"type": "library",
 	"license": "GPL",
 	"authors": [
 		{
