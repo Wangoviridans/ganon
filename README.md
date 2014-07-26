@@ -8,16 +8,15 @@ This is a fork of the project [https://code.google.com/p/ganon/](https://code.go
 # Installation
 
 ## Composer
-Via [composer](http://getcomposer.org/)
 
-    $ composer require wangoviridans/ganon
-
+    Via [composer](http://getcomposer.org/)
     (https://packagist.org/packages/wangoviridans/ganon)
-    {
-        "require": {
-            "wangoviridans/ganon": "dev-master"
+
+        {
+            "require": {
+                "wangoviridans/ganon": "dev-master"
+            }
         }
-    }
 
     Or just clone and put somewhere inside your project folder.
     $ cd myapp/vendor
